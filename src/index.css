@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.sticky-top {
+  position: sticky;
+  top: 0;
+  background: white; /* optional: to cover content behind when sticking */
+  z-index: 1000; /* optional: to stay on top */
+}
