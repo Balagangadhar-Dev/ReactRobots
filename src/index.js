@@ -10,17 +10,13 @@ import 'tachyons';
 import {movies} from './movies';
 import {team1} from './datat1';
 import {team2} from './datat2';
+import SearchBox from './searchbox';
+import App from './app';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <h1 className='tc bg-black white sticky-top'>Blockbuster Movies</h1>
-    <MovieCard movies={movies} />
-
-    {/* <h1 className='tc'>Software Engineering Team</h1>
-    <Team1 robots={team1} />
-    <h1 className='tc'>Data Engineering Team</h1>
-    <Team2 robots={team2} /> */}
+  <App/>
   </React.StrictMode>
 );
 
