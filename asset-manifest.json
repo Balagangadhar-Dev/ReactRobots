@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactRobots/static/css/main.cda30ad3.css",
+    "main.js": "/ReactRobots/static/js/main.7a22dc49.js",
+    "static/js/453.8f3bcadc.chunk.js": "/ReactRobots/static/js/453.8f3bcadc.chunk.js",
+    "index.html": "/ReactRobots/index.html",
+    "main.cda30ad3.css.map": "/ReactRobots/static/css/main.cda30ad3.css.map",
+    "main.7a22dc49.js.map": "/ReactRobots/static/js/main.7a22dc49.js.map",
+    "453.8f3bcadc.chunk.js.map": "/ReactRobots/static/js/453.8f3bcadc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cda30ad3.css",
+    "static/js/main.7a22dc49.js"
+  ]
+}
